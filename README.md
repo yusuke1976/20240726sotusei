@@ -26,6 +26,10 @@ https://gs-dev27-41.sakura.ne.jp/20240726sotusei/
 - ID: gs_kadai
 - PW: test1
 
+【ユーザー】
+- ID: test500
+- PW: test500
+
 【管理者】
 - ID: admin
 - PW: admin1

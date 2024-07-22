@@ -1,6 +1,6 @@
 # プロダクト名
 
-本で悩み解決！BOW<Bookshelf Of Worries>
+本で悩み解決！BOW【Bookshelf Of Worries】
 
 ## ②内容（どんな作品か）
 
